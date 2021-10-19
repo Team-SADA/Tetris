@@ -2,5 +2,8 @@
 개쩌는 테트리스에오
 
 # Dependency
-Python3
-- pygame module
+- Python3
+
+modules
+- pygame
+- numpy
